@@ -18,4 +18,5 @@
 17-hidethisword : hides the word "bin" from the output of the content of files to the screen
 18-letteronly: displays only words begining with letters
 19-AZ : replaces A and c from input with Z and e
+20-hiago : removes letters C and c from input
 
