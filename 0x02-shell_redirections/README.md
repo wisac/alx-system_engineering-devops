@@ -10,3 +10,5 @@
 9-duplicate_last_line : duplicates last line of file
 10-no_more_js : removes all .js files in cwd and subdirectories
 11-directories : Count the number of directories in cwd
+12-newest_files : displays 10 newest files in the cwd
+
