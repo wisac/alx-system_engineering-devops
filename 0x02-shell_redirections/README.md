@@ -13,4 +13,4 @@
 12-newest_files : displays 10 newest files in the cwd
 13-unique : displays unique words sorted from a list of words
 14-findthatword : searches a file for a specific word
-
+15-countthatword : displays the number of times a word appear in a text
