@@ -3,3 +3,4 @@
 2-path : Adds /action to $PATH
 
 4-global_variables : prints environment variables
+5-local_variables : prints local variables and functions to the screen
