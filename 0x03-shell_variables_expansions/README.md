@@ -6,3 +6,6 @@
 5-local_variables : prints local variables and functions to the screen
 6-create_local_variables : creates a local variable
 
+8-true_knowledge : prints the result of the addition of 128 with the value stored in the environment variable
+9
+
