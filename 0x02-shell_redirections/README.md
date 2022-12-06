@@ -7,3 +7,6 @@
 6-third_line : displays the third line of the file iacta file which in cwd
 7-file: creates a file with a wierd name
 8-cwd_content : writes the content of cwd to a file
+9-duplicate_last_line : duplicates last line of file
+10-no_more_js : removes all .js files in cwd and subdirectories
+11-directories : Count the number of directories in cwd
