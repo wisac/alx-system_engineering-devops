@@ -15,4 +15,5 @@
 14-findthatword : searches a file for a specific word
 15-countthatword : displays the number of times a word appear in a text
 16-whatsnext : display lines containing  pattern of root with three lines after them
+17-hidethisword : hides the word "bin" from the output of the content of files to the screen
 
