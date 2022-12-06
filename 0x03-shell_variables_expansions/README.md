@@ -4,3 +4,5 @@
 
 4-global_variables : prints environment variables
 5-local_variables : prints local variables and functions to the screen
+6-create_local_variables : creates a local variable
+
