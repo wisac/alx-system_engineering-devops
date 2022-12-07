@@ -15,3 +15,4 @@
 13-print_float : prints a floating point to two decimal places
 100-decimal_to_hexadecimal : converts decimal to hexadecimal and displays result 
 101-rot13 : Encodes and decode text using rot13 encryption
+102-odd : Prints every other line from the input starting with first line
