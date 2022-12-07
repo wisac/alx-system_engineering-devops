@@ -16,3 +16,4 @@
 100-decimal_to_hexadecimal : converts decimal to hexadecimal and displays result 
 101-rot13 : Encodes and decode text using rot13 encryption
 102-odd : Prints every other line from the input starting with first line
+103-water_and_stir : Add two numbers, store result in environment var and prints the result
