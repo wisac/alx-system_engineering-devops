@@ -13,4 +13,5 @@
 11-binary_to_decimal : converts binary to decimal
 12-combinations : prints possible combination of characters
 13-print_float : prints a floating point to two decimal places
+100-decimal_to_hexadecimal : converts decimal to hexadecimal and displays result 
 
